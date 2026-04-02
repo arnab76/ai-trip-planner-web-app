@@ -1,0 +1,7 @@
+﻿app/create-new-trip/_components/ChatBox.tsx(3,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+app/create-new-trip/_components/ChatBox.tsx(4,26): error TS2307: Cannot find module '@/components/ui/textarea' or its corresponding type declarations.
+app/create-new-trip/_components/ChatBox.tsx(15,21): error TS2307: Cannot find module '@/convex/_generated/api' or its corresponding type declarations.
+app/create-new-trip/_components/ChatBox.tsx(16,31): error TS2307: Cannot find module '@/app/provider' or its corresponding type declarations.
+app/create-new-trip/_components/EmptyBoxState.tsx(1,29): error TS2307: Cannot find module '@/app/_components/Hero' or its corresponding type declarations.
+app/create-new-trip/_components/FinalUi.tsx(1,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+app/create-new-trip/_components/SelectDays.tsx(2,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.

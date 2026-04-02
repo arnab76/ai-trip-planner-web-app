@@ -1,0 +1,4 @@
+﻿app/create-new-trip/_components/ChatBox.tsx(78,11): error TS2339: Property 'tripDetailInfo' does not exist on type 'TripDetailContext | undefined'.
+app/create-new-trip/_components/ChatBox.tsx(78,27): error TS2339: Property 'setTripDetailInfo' does not exist on type 'TripDetailContext | undefined'.
+app/create-new-trip/_components/itinerary.tsx(129,13): error TS2339: Property 'tripDetailInfo' does not exist on type 'TripDetailContext | undefined'.
+app/create-new-trip/_components/itinerary.tsx(129,29): error TS2339: Property 'setTripDetailInfo' does not exist on type 'TripDetailContext | undefined'.

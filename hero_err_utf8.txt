@@ -1,0 +1,3 @@
+﻿app/_components/Hero.tsx(2,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+app/_components/Hero.tsx(3,33): error TS2307: Cannot find module '@/components/ui/hero-video-dialog' or its corresponding type declarations.
+app/_components/Hero.tsx(4,26): error TS2307: Cannot find module '@/components/ui/textarea' or its corresponding type declarations.

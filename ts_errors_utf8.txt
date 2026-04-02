@@ -1,0 +1,8 @@
+﻿app/create-new-trip/_components/ChatBox.tsx(78,11): error TS2339: Property 'tripDetailInfo' does not exist on type 'TripDetailContext | undefined'.
+app/create-new-trip/_components/ChatBox.tsx(78,27): error TS2339: Property 'setTripDetailInfo' does not exist on type 'TripDetailContext | undefined'.
+app/create-new-trip/_components/itinerary.tsx(129,13): error TS2339: Property 'tripDetailInfo' does not exist on type 'TripDetailContext | undefined'.
+app/create-new-trip/_components/itinerary.tsx(129,29): error TS2339: Property 'setTripDetailInfo' does not exist on type 'TripDetailContext | undefined'.
+components/ui/apple-cards-carousel.tsx(20,10): error TS2503: Cannot find namespace 'JSX'.
+components/ui/apple-cards-carousel.tsx(185,19): error TS2345: Argument of type 'RefObject<HTMLDivElement | null>' is not assignable to parameter of type 'RefObject<HTMLDivElement>'.
+  Type 'HTMLDivElement | null' is not assignable to type 'HTMLDivElement'.
+    Type 'null' is not assignable to type 'HTMLDivElement'.
